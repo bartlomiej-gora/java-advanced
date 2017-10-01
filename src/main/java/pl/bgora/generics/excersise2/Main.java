@@ -13,7 +13,4 @@ public class Main {
 
     }
 
-    public static <T extends Number> List<T> sort(List<T> list){
-        return null;
-    }
 }
