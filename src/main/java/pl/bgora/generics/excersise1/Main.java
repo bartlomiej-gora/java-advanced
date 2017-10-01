@@ -48,16 +48,20 @@ public class Main {
         renaultTruck.setName("Renault");
         renaultTruck.setWheelCount(18);
         renaultTruck.setEngine(dieselEngine);
+        renaultTruck.setColor("Red");
 
         vehicles.add(renaultTruck);
 
-        //TODO: set engines running ang o! :)
-        //drive()
 
+
+        //TODO:1  set engines running ang go for all vehicle! :)
+//        drive(vehicles);
+        //TODO 2: Change the List<AbstractVehicle> vehicles to List<Car> what happens?
+
+        //TODO 3: Pass the List<Car> to drive method, what happens?
     }
 
     private static void drive() {
-
         //TODO: add implementation
     }
 

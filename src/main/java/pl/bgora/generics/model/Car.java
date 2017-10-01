@@ -11,7 +11,7 @@ public class Car extends AbstractVehicle {
 
     @Override
     public void move() {
-        System.out.println("Driving a car..." + color);
+        System.out.println("Driving a car colored..." + color);
         System.out.println("name: " + name);
         System.out.println("wheels: " + wheelCount);
         System.out.println("seats: " + seatsCount);
