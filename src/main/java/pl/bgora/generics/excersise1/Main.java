@@ -55,10 +55,12 @@ public class Main {
 
 
         //TODO:1  set engines running ang go for all vehicle! :)
+        //implement method drive so it will take vehicle list
 //        drive(vehicles);
         //TODO 2: Change the List<AbstractVehicle> vehicles to List<Car> what happens?
 
-        //TODO 3: Pass the List<Car> to drive method, what happens?
+        //TODO 3: Pass the List<Car> to drive method (that you have implemented), what happens?
+
     }
 
     private static void drive() {
